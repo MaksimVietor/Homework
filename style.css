@@ -1,0 +1,43 @@
+#LOGO{
+
+  color: white;
+font-size: 20px;
+font-family: monospace;
+margin-left: 50px;
+
+}
+.nav{
+
+  color: white;
+  font-size: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-decoration: none;
+}
+#content_header{
+  margin-top: 10px;
+  box-sizing: border-box;
+  background-color: orange;
+
+  padding-block: 30px ;
+}
+.L-am{
+  padding-top: 10px;
+  padding-left: 50px;
+  font-family: monospace;
+  font-size: 15px;
+  color: rgb(0, 4, 4);
+}
+.IMG{
+  vertical-align: top;
+  width: 200px;
+}
+.Video1{
+  width: 900px;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+h1{
+  font-family: monospace;
+  font-size: 30px;
+  color: rgb(132, 79, 0);
+}
